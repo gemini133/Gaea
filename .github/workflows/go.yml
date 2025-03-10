@@ -54,5 +54,5 @@ jobs:
         with:
           name: linux_amd64
           path: |
-            /pkg/linux_amd64
+            bin/
           if-no-files-found: error
